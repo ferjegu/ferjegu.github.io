@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ferjegu.github.io/ferjegu/sitemap.txt
